@@ -8,6 +8,8 @@ gem 'rails', '3.2.1'
 gem 'sqlite3'
 
 gem 'devise'
+gem "less-rails-bootstrap"
+gem "less-rails-bootstrap-devise", :git => 'git://github.com/bigbento/less-rails-bootstrap-devise.git'
 
 # Gems used only for assets and not required
 # in production environments by default.
